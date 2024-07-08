@@ -18,7 +18,7 @@ export default function Sig_Up() {
   const handleSignUp = async () => {
     try {
       const response = await fetch(
-        "https://d942-140-213-1-103.ngrok-free.app/signup",
+        "https://a15e-140-213-1-44.ngrok-free.app/signup",
         {
           method: "POST",
           headers: {
